@@ -1,5 +1,5 @@
 # assignment
-# A Documentary on "Base Frequency in Random Numbers"
+#"Base Frequency in Random Numbers"
 
 ## Code Exploration
 
